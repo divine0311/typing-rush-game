@@ -1,0 +1,6 @@
+{
+  "name": "Typing Rush",
+  "description": "A modern neon sci-fi typing shooter where you destroy incoming enemy ships by typing words.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
